@@ -3,32 +3,67 @@
     ViewData["Title"] = "WebIntegrador1";
 }
 
-<h1>WebIntegrador1</h1>
+<h1>Aplicacion del Solar Tracker</h1>
 <head>
+    <!--Links del carrusel-->
     <link rel="stylesheet" href="~/css/site.css" />
+    <link rel="stylesheet" href="~/css/EstilosIntegrador.css" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <style>
+        /* Make the image fully responsive */
+        .carousel-inner img {
+            width: 100%;
+            height: 100%;
+        }
+    </style>
 </head>
-<h1>Probando Creditos</h1>
-<div id="carouselExampleInterval" class="carousel slide" data-bs-ride="carousel">
+<div id="demo" class="carousel slide" data-ride="carousel">
+
+    <!-- Indicators -->
+    <ul class="carousel-indicators">
+        <li data-target="#demo" data-slide-to="0" class="active"></li>
+        <li data-target="#demo" data-slide-to="1"></li>
+        <li data-target="#demo" data-slide-to="2"></li>
+    </ul>
+
+    <!-- The slideshow -->
     <div class="carousel-inner">
-        <div class="carousel-item active" data-bs-interval="10000">
-            <img src="https://www.digitalmanufaktur.com/wp-content/uploads/2020/09/vue3-release-blog.jpg" class="d-block w-100" alt="...">
-        </div>
-        <div class="carousel-item" data-bs-interval="2000">
-            <img src="https://miro.medium.com/max/3600/1*HSisLuifMO6KbLfPOKtLow.jpeg" class="d-block w-100" alt="...">
+        <div class="carousel-item active">
+            <img src="https://www.digitalmanufaktur.com/wp-content/uploads/2020/09/vue3-release-blog.jpg" alt="Los Angeles" width="1900" height="500">
+            <div class="carousel-caption">
+                <h3>Aprende Vue Js!</h3>
+                <p>Antiguo en frameworks!.. pero aun sirve!</p>
+            </div>
         </div>
         <div class="carousel-item">
-            <img src="https://miro.medium.com/max/3000/1*-f6StBRZQiuOAz7fdqWFKw.png" class="d-block w-100" alt="...">
+            <img  src="https://res.cloudinary.com/practicaldev/image/fetch/s--qa72YNaF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/me6sbpz893h3a6ip5zsv.jpg" alt="Chicago" width="1100" height="500">
+            <div class="carousel-caption">
+                <h3></h3>
+                <p>El framework de frontEnd de Facebook!</p>
+            </div>
+        </div>
+        <div class="carousel-item">
+            <img src="https://diegoboscan.com/assets/img/angular.png" alt="New York" width="1100" height="500">
+            <div class="carousel-caption">
+                <h3>Aprende Angular</h3>
+                <p class="text-black-50">Framework de Google</p>
+            </div>
         </div>
     </div>
-    <a class="carousel-control-prev" href="#carouselExampleInterval" role="button" data-bs-slide="prev">
-        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-        <span class="visually-hidden">Previous</span>
+
+    <!-- Left and right controls -->
+    <a class="carousel-control-prev" href="#demo" data-slide="prev">
+        <span class="carousel-control-prev-icon"></span>
     </a>
-    <a class="carousel-control-next" href="#carouselExampleInterval" role="button" data-bs-slide="next">
-        <span class="carousel-control-next-icon" aria-hidden="true"></span>
-        <span class="visually-hidden">Next</span>
+    <a class="carousel-control-next" href="#demo" data-slide="next">
+        <span class="carousel-control-next-icon"></span>
     </a>
 </div>
+<h1 class="alert-dark">Probando Creditos</h1>
+
 
 <img src="https://i.pinimg.com/originals/6a/cd/f1/6acdf112254c5e02a7904b8edd5d017e.jpg" />
 
@@ -74,14 +109,7 @@
 </div>
 
 
-
-
-
-<div style="align-content:start;">
-    <p style="text-align: right;">Center aligned text on all viewport sizes.</p>
-
-</div>
-
+<!--Footer-->
 
 <footer class="border-top footer text-muted">
     <div class="container">
