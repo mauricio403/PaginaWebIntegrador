@@ -38,6 +38,10 @@ namespace WebIntegradorNet.Controllers
         {
             return View();
         }
+        public IActionResult ImagenMueve()
+        {
+            return View();
+        }
     }
 }
 
