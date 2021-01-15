@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Desktop\\WebIntegrador\\PaginaWebIntegrador\\WebIntegrador\\WebIntegradorNet\\WebIntegradorNet.csproj": {}
+    "E:\\Bryan\\Desarrollo de Software\\1.Tercer nivel\\Seguidor Solar\\WebIntegrador\\WebIntegradorNet\\WebIntegradorNet.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Desktop\\WebIntegrador\\PaginaWebIntegrador\\WebIntegrador\\WebIntegradorNet\\WebIntegradorNet.csproj": {
+    "E:\\Bryan\\Desarrollo de Software\\1.Tercer nivel\\Seguidor Solar\\WebIntegrador\\WebIntegradorNet\\WebIntegradorNet.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\WebIntegrador\\PaginaWebIntegrador\\WebIntegrador\\WebIntegradorNet\\WebIntegradorNet.csproj",
+        "projectUniqueName": "E:\\Bryan\\Desarrollo de Software\\1.Tercer nivel\\Seguidor Solar\\WebIntegrador\\WebIntegradorNet\\WebIntegradorNet.csproj",
         "projectName": "WebIntegradorNet",
-        "projectPath": "C:\\Users\\User\\Desktop\\WebIntegrador\\PaginaWebIntegrador\\WebIntegrador\\WebIntegradorNet\\WebIntegradorNet.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\WebIntegrador\\PaginaWebIntegrador\\WebIntegrador\\WebIntegradorNet\\obj\\",
+        "projectPath": "E:\\Bryan\\Desarrollo de Software\\1.Tercer nivel\\Seguidor Solar\\WebIntegrador\\WebIntegradorNet\\WebIntegradorNet.csproj",
+        "packagesPath": "C:\\Users\\bryan.perez04\\.nuget\\packages\\",
+        "outputPath": "E:\\Bryan\\Desarrollo de Software\\1.Tercer nivel\\Seguidor Solar\\WebIntegrador\\WebIntegradorNet\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\bryan.perez04\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

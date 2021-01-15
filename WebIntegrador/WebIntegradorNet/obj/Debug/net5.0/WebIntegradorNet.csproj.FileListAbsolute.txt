@@ -317,3 +317,4 @@ E:\Bryan\Desarrollo de Software\1.Tercer nivel\Seguidor Solar\WebIntegrador\WebI
 E:\Bryan\Desarrollo de Software\1.Tercer nivel\Seguidor Solar\WebIntegrador\WebIntegradorNet\obj\Debug\net5.0\WebIntegradorNet.pdb
 E:\Bryan\Desarrollo de Software\1.Tercer nivel\Seguidor Solar\WebIntegrador\WebIntegradorNet\obj\Debug\net5.0\WebIntegradorNet.genruntimeconfig.cache
 C:\Users\User\Desktop\WebIntegrador\PaginaWebIntegrador\WebIntegrador\WebIntegradorNet\obj\Debug\net5.0\Razor\Views\Home\ImagenMueve.cshtml.g.cs
+E:\Bryan\Desarrollo de Software\1.Tercer nivel\Seguidor Solar\WebIntegrador\WebIntegradorNet\obj\Debug\net5.0\Razor\Views\Home\ImagenMueve.cshtml.g.cs
